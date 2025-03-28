@@ -1,2 +1,2 @@
-# Suraj-s_Portfolio.
+# Suraj's_Portfolio.
 My first portfolio website.
